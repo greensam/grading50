@@ -17,7 +17,12 @@ pip install selenium-2.48.0
 
 You may need to use sudo with the last step.
 
-After that, you should be ready to start. The script assumes that you will have access to the CS50 Finance instance at the URL listed in early in the script.
+After that, you should be ready to start. The script assumes that you will have access to the CS50 Finance instance at the URL listed in early in the script. 
+
+Start with
+```
+python grader7.py
+```
 
 For each student graded, you will find a .json file containing the axes. 
 
